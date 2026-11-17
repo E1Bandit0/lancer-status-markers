@@ -1,0 +1,16 @@
+{
+  "name": "Lancer Status Markers",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Random",
+  "icon": "/logo.png",
+  "description": "Attach Lancer status and condition markers to tokens, with a built-in rules reference for players.",
+  "background_url": "/background.html",
+  "action": {
+    "title": "Lancer Statuses",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 640,
+    "width": 380
+  }
+}
